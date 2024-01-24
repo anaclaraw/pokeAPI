@@ -1,7 +1,7 @@
 ## PokeAPI
-# JavaScript | HTML | CSS
+#### JavaScript | HTML | CSS
 
-# PT-BR
+###### PT-BR
  💻Nesse projeto eu consumi com JavaScript puro a API publica pokeAPI, por onde exportei os dados de diversos pokemons. Utilizei CSS para estilizar e ordenar as páginas.
 
 💭Foi um projeto para práticar o uso de JavaScript sem frameworks e utilizar de metodos mais especificos.
@@ -22,7 +22,7 @@ Mais pelo código...
 
 
 
-# English - EUA
+##### English - EUA
 
 💻In this project, I used pure JavaScript to use the public API pokeAPI, where I exported data from several pokemons. I used CSS to style and order the pages.
 
